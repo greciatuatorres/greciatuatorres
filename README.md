@@ -8,9 +8,13 @@ Código claro. Pensamiento estructurado. Evolución constante.
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/greciatuatorres/repo/blob/main/banner-grekima.png?raw=true" alt="Grekima Banner" width="100%">
+</p>
+
 ---
 
-## Sobre mí
+## Sobre mí ✨
 
 Soy Grecia, estudiante de Desarrollo de Aplicaciones Multiplataforma.  
 Mi objetivo es seguir creciendo como programadora, fortaleciendo mis habilidades técnicas y mi capacidad para construir soluciones funcionales y bien diseñadas.
@@ -19,6 +23,7 @@ Me apasiona transformar ideas en código y convertirlas en aplicaciones, sitios 
 
 En mi tiempo libre disfruto del cine y las series, la música, el deporte y conocer nuevos lugares. Estas experiencias alimentan mi creatividad, disciplina y motivación para seguir aprendiendo.
 
+
 > “El control viene del conocimiento.”
 
 ---
@@ -26,15 +31,54 @@ En mi tiempo libre disfruto del cine y las series, la música, el deporte y cono
 ## Tecnologías
 
 <p>
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white"/>
+Estoy aprendiendo a usar
+ 
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</p>
+
+---
+## Metodologías Ágiles
+
+<p>
+
+<img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scrum-8B0000?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kanban-111111?style=for-the-badge&logo=trello&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trabajo_Colaborativo-8B0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Desarrollo_Iterativo-111111?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## Contacto
+## Estadísticas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=greciatuatorres&show_icons=true&hide_border=true"/>
+</p>
+
+---
+
+## Contactáctame
 
 LinkedIn  
 https://linkedin.com/in/TU_PERFIL  
