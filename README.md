@@ -29,7 +29,7 @@ En mi tiempo libre disfruto del cine y las series, la música, el deporte y cono
 ---
 
 ## Tecnologías
-Estoy aprendiendo a usar
+Estoy aprendiendo a usar:
 <p>
  
 <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -60,10 +60,6 @@ Estoy aprendiendo a usar
 <img src="https://img.shields.io/badge/Scrum-8B0000?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kanban-111111?style=for-the-badge&logo=trello&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Trabajo_Colaborativo-8B0000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Desarrollo_Iterativo-111111?style=for-the-badge"/>
 
 </p>
 
