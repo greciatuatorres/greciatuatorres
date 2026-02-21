@@ -3,52 +3,52 @@
 # Grecia Tua Torres
 
 ### Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-🧼 Código limpio • 🌱 Código abierto • ❤️ Amante de la tecnología
+
+Código claro. Pensamiento estructurado. Evolución constante.
 
 </div>
 
 ---
 
-## Sobre mí ✨
+## Sobre mí
 
-<img align="right" width="260" src="https://images.unsplash.com/photo-1518770660439-4636190af475"/>
+Soy Grecia, estudiante de Desarrollo de Aplicaciones Multiplataforma.  
+Mi objetivo es seguir creciendo como programadora, fortaleciendo mis habilidades técnicas y mi capacidad para construir soluciones funcionales y bien diseñadas.
 
-🚀Interés en desarrollo Full Stack
-📱Desarrollo Android con Java
-⚙️ APIs REST con Java / Spring
-🌍 Trabajo con metodologías ágiles
-📚 Aprendizaje continuo.
+Me apasiona transformar ideas en código y convertirlas en aplicaciones, sitios web o juegos que realmente funcionen y aporten valor.
 
-Soy Grecia estudiante de DAM, mi objetivo es seguir aprendiendo y mejorando en mis habilidades de programdora, me gusta que mis ideas cobren vida a
-traves del codigo y se conviertan en aplicaciones, webs o juegos fucionales.
-
-En mi tiempo libre, disfruto mucho de ver peliculas y series, escuchar musica, hacer deporte, conocer lugares nuevos y adquirir nuevos conocimientos, actividades que me ayudan a desconectar y me proporcionan motivacion y creatividad.
+En mi tiempo libre disfruto del cine y las series, la música, el deporte y conocer nuevos lugares. Estas experiencias alimentan mi creatividad, disciplina y motivación para seguir aprendiendo.
 
 > “El control viene del conocimiento.”
 
 ---
 
-## Tecnologías 👩‍💻
+## Tecnologías
 
 <p>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-B22222?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-B22222?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
 
-## Contáctame📱 
+## Contacto
 
-- LinkedIn: https://linkedin.com/in/TU_PERFIL
-- GitHub: https://github.com/greciatuatorres
-- Email: mailto:tuagrecia@gmail.com
+LinkedIn  
+https://linkedin.com/in/TU_PERFIL  
+
+Correo electrónico  
+tuagrecia@gmail.com  
+
+GitHub  
+https://github.com/greciatuatorres  
 
 ---
 
 <div align="center">
 
-### Disciplina. Aprendizaje. Progreso Constante 🧠
+Disciplina. Precisión. Progreso constante.
 
 </div>
