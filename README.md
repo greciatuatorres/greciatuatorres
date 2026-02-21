@@ -11,9 +11,13 @@
 ## Sobre mí ✨    
 
 • 💻Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+
 • 📚 Aprendizaje continuo 
+
 • 📱 Desarrollo Android con Java  
+
 • ⚙️ APIs REST con Java / Spring  
+
 • 🌍Trabajo con metodologías ágiles  
 
 Soy Grecia, estudiante de Desarrollo de Aplicaciones Multiplataforma.  
