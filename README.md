@@ -14,7 +14,15 @@ Código claro. Pensamiento estructurado. Evolución constante.
 
 ---
 
-## Sobre mí ✨
+## Sobre mí ✨    
+
+• Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+• Aprendizaje continuo 
+• Desarrollo Android con Java  
+• APIs REST con Java / Spring  
+• Trabajo con metodologías ágiles  
+• Aprendizaje continuo 
+
 
 Soy Grecia, estudiante de Desarrollo de Aplicaciones Multiplataforma.  
 Mi objetivo es seguir creciendo como programadora, fortaleciendo mis habilidades técnicas y mi capacidad para construir soluciones funcionales y bien diseñadas.
