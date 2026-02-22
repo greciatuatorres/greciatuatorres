@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/greciatuatorres/repo/blob/main/banner-grekima.png?raw=true" alt="Grekima Banner" width="100%">
+  <img width="1200" height="400" alt="Grecia Tua Torres" src="https://github.com/user-attachments/assets/4fb05138-7fd4-486e-9ea2-afee4bd83854"/>
 </p>
 
 ---
