@@ -27,7 +27,7 @@ Me apasiona transformar ideas en código y convertirlas en aplicaciones, sitios 
 
 En mi tiempo libre disfruto del cine y las series, la música, el deporte y conocer nuevos lugares. Estas experiencias alimentan mi creatividad, disciplina y motivación para seguir aprendiendo.
 
-                                                  ❤️ Amante de la tecnología
+      ❤️ Amante de la tecnología
 
 ---
 
@@ -84,7 +84,7 @@ Cada paso que doy está orientado a la mejora continua y el control de mi propio
 > “El control viene del conocimiento.”
 
 ---
-## Contactáctame
+## Contactáctame 📫
 
 LinkedIn  
 https://linkedin.com/in/TU_PERFIL  
