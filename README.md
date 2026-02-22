@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img width="1200" height="400" alt="Grecia Tua Torres" src="https://github.com/user-attachments/assets/4fb05138-7fd4-486e-9ea2-afee4bd83854"/>
+  <img width="http://github-readme-stats.vercel.app/api/top-langs/?username=greciatuatorres&hide_border=true&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
