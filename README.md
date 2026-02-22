@@ -32,7 +32,7 @@ En mi tiempo libre disfruto del cine y las series, la música, el deporte y cono
 ---
 
 ## Tecnologías
-Estoy aprendiendo a usar:
+Tecnologías dominadas / en aprendizaje::
 <p>
  
 <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
