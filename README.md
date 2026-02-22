@@ -1,9 +1,7 @@
-<div align="center">
-
-</div>
-
+<div align="center">  
+<img width="1200" height="400" alt="Grecia Tua Torres" src="https://github.com/user-attachments/assets/9f59e642-4b18-43f5-bfdd-985afc2673bd" />
 <p align="center">
-  <img width="http://github-readme-stats.vercel.app/api/top-langs/?username=greciatuatorres&hide_border=true&layout=compact&theme=tokyonight"/>
+</div>
 </p>
 
 ---
