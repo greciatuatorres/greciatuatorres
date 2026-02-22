@@ -69,7 +69,7 @@ Tecnologías dominadas / en aprendizaje::
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greciatuatorres&hide_border=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=greciatuatorres&hide_border=true&layout=compact&theme=tokyonight" />
 </p>
 
 ---
