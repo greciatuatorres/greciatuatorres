@@ -77,7 +77,8 @@ Cada paso que doy está orientado a la mejora continua y el control de mi propio
 ## Contactáctame 📫
 
 LinkedIn  
-https://linkedin.com/in/TU_PERFIL  
+https://linkedin.com/in/www.linkedin.com/in/
+grecia-tua-20b4ba3b2  
 
 Correo electrónico  
 tuagrecia@gmail.com  
